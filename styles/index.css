@@ -1,0 +1,13 @@
+#logo{
+    width: 2rem;
+}
+body{
+    height: 100vh;
+    background:rgb(78, 73, 168);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(56,56,144,1) 0%, rgba(9,19,127,0.8883994126284875) 94%, rgba(0,0,0,1) 100%, rgba(107,85,164,1) 100%, rgba(9,9,121,1) 100%);
+}   
+.card{
+    background-color: transparent;
+    border: none;
+    text-align: center;
+} 
